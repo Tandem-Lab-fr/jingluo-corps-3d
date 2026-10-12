@@ -1,0 +1,96 @@
+{
+ "version": 1,
+ "date": "2026-10-12",
+ "couches": {
+  "skin": {
+   "files": [
+    {
+     "file": "skin-1.json",
+     "bytes": 742467,
+     "sha256": "2d44c97ff2e671c4f85eb4d30a781c89d76c2ba35246a64bcf41b64340eb6b33"
+    }
+   ],
+   "bytes": 742467
+  },
+  "muscles": {
+   "files": [
+    {
+     "file": "muscles-1.json",
+     "bytes": 12929580,
+     "sha256": "7e3ffe6c864fbba92e342e288e4415fba5d909a754d45995abde79f32c45830b"
+    },
+    {
+     "file": "muscles-2.json",
+     "bytes": 11903187,
+     "sha256": "28f0f2acc1ae36a463fb5afddc84b5ddf65e80fb5693596bcd5cd872adb625b9"
+    }
+   ],
+   "bytes": 24832767
+  },
+  "skeleton": {
+   "files": [
+    {
+     "file": "skeleton-1.json",
+     "bytes": 7154491,
+     "sha256": "cc619ce8002891d00ef2582c1e37b57448629c93cfc7b5e29cf7916348ba5ce1"
+    }
+   ],
+   "bytes": 7154491
+  },
+  "organs": {
+   "files": [
+    {
+     "file": "organs-1.json",
+     "bytes": 9295408,
+     "sha256": "7be0bee6ced7454d1ebb34078b0ba3f34099d103c6a2f132bb715275be38fee3"
+    }
+   ],
+   "bytes": 9295408
+  },
+  "nerves": {
+   "files": [
+    {
+     "file": "nerves-1.json",
+     "bytes": 12684012,
+     "sha256": "c94434a564cfcd0710c363c637ecf1ddd3062efbf23d92697dfd7d5d8df36f40"
+    },
+    {
+     "file": "nerves-2.json",
+     "bytes": 6333248,
+     "sha256": "75efda9d25389d95dc576b1b7882a1e7b4bfe7b490b6e8114bac052a2b605edc"
+    }
+   ],
+   "bytes": 19017260
+  },
+  "arteries": {
+   "files": [
+    {
+     "file": "arteries-1.json",
+     "bytes": 12922788,
+     "sha256": "783978cec3810e82e75543c9b9edde0446c839442e68d93cd2e45bd3b6007835"
+    },
+    {
+     "file": "arteries-2.json",
+     "bytes": 13078783,
+     "sha256": "a5cd3f454fb1335108522999bbd5681a8ea57f503493827e33f3fee6146c9ed9"
+    }
+   ],
+   "bytes": 26001571
+  },
+  "veins": {
+   "files": [
+    {
+     "file": "veins-1.json",
+     "bytes": 13344730,
+     "sha256": "5bf4d5259d4a1fae671f98f7a4a33a86cbecb312a700111726ab23cbc014b6f1"
+    },
+    {
+     "file": "veins-2.json",
+     "bytes": 987343,
+     "sha256": "b91902539d696f37214bfeb4470b11babf54eba2df14fa26e60f41255a24188e"
+    }
+   ],
+   "bytes": 14332073
+  }
+ }
+}

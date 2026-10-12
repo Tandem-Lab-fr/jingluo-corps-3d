@@ -1,0 +1,5 @@
+# Rien d autre que le corps : voir CLAUDE.md
+.env
+.env.*
+*.npz
+__pycache__/
